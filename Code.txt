@@ -1,2 +1,7 @@
 yellow
+<<<<<<< HEAD
 hello everyone
+=======
+this is code file in branch  test
+test and code merge
+>>>>>>> 2ee66ba132a12e9bf6fa76bc622de6a57e67e5a6
